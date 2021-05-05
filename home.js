@@ -15,3 +15,4 @@ console.log("Baris kedelapan");
 console.log("Fernando Piay");
 console.log("Timothy Tiwow");
 console.log("Rolangon Anggreiny");
+console.log("Putri Kloah");
