@@ -7,3 +7,4 @@ console.log("Novrando Natanael Hizkia");
 console.log("giver panambunan");
 
 console.log("FE Summer School");
+console.log("Test commit 2 more lines");
